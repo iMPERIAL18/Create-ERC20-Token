@@ -25,16 +25,7 @@ Follow the steps below to execute the program:
    - Minting new tokens.
    - Burning tokens.
    - Transferring tokens between accounts.
-7. To mint tokens:
-   - Call the `mint` function on the deployed ERC-20 token contract.
-   - Provide the desired recipient and the amount of tokens to be minted.
-8. To burn tokens:
-   - Call the `burn` function on the deployed ERC-20 token contract.
-   - Provide the account address and the amount of tokens to be burned.
-9. To transfer tokens:
-   - Call the `transfer` function on the deployed ERC-20 token contract.
-   - Provide the recipient's address and the amount of tokens to be transferred.
-10. You can repeat steps 7-9 with different accounts to perform burning, and transferring operations.
+7. You can use different accounts to perform burning, and transferring operations.
 
 ## Authors
 
